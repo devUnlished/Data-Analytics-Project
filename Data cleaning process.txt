@@ -1,0 +1,7 @@
+Data cleaning for the World bank dataset.
+
+1. fill the missing values: the mean method was used by replacing the missing value in each column with the cloumn mean.
+2. checking for duplicates. 
+3. renaming columns, this was done to make the data descriptive or to rename a miss spelled name.
+4. checking for the wrong format
+5. checking for wrong data
